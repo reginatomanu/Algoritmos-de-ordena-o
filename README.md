@@ -4,6 +4,5 @@
 
 
 While(true){
-     printf("AURA");
-
-     }
+printf("AURA");
+    }
