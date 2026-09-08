@@ -51,6 +51,9 @@ Antes: 5 2 8 1 9 3
 Depois: 1 2 3 5 8 9
 ```
 
-## Autor
+## Autores
 
-Renan Cáceres Anselmo — Tecnologia em Análise e Desenvolvimento de Sistemas (TADS), UTFPR-CP.
+Lauren Marçulo — Tecnologia em Análise e Desenvolvimento de Sistemas, UTFPR-CP.
+Manuella Vieira Reginato — Tecnologia em Análise e Desenvolvimento de Sistemas, UTFPR-CP.
+Pedro Lucas Sales Larini — Tecnologia em Análise e Desenvolvimento de Sistemas, UTFPR-CP.
+Renan Cáceres Anselmo — Tecnologia em Análise e Desenvolvimento de Sistemas, UTFPR-CP.
