@@ -57,3 +57,6 @@ Lauren Marçulo — Tecnologia em Análise e Desenvolvimento de Sistemas, UTFPR-
 Manuella Vieira Reginato — Tecnologia em Análise e Desenvolvimento de Sistemas, UTFPR-CP.
 Pedro Lucas Sales Larini — Tecnologia em Análise e Desenvolvimento de Sistemas, UTFPR-CP.
 Renan Cáceres Anselmo — Tecnologia em Análise e Desenvolvimento de Sistemas, UTFPR-CP.
+
+## Link de Apresentação(Canva)
+https://canva.link/r6todhf2jsr7ywt
